@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...<br>
-<a href="https://www.linkedin.com/in/vigneshranji/"><img src="linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px;"></a>
-
+<a href="https://www.linkedin.com/in/vigneshranji/" target="_blank">
+   <img src="linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px; padding-left: 150px;"></a>
 <h1>Python Full Stock Web Developer</h1>
 
